@@ -13,6 +13,7 @@ Each project is validated by units tests checking accessibility, HTML structure,
 ## 1<sup>st</sup> Project - Tribute Page
 
 [Tribute page project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) details and user story.
+
 [Freecodecamp tribute page](https://codepen.io/freeCodeCamp/full/zNqgVx).
 
 [GitHub](tribute-page-fcc) folder for the project i did.
@@ -22,8 +23,19 @@ Each project is validated by units tests checking accessibility, HTML structure,
 ## 2<sup>nd</sup> Project - Survey Form
 
 [Survey Form project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) details and user story.
+
 [Freecodecamp Survey Form page](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
 [GitHub](survey-form) folder for the project i did.
 
 [My Survey Form](https://codepen.io/Thoth80/pen/jOGKoVy) on codepen.
+
+## 3<sup>rd</sup> Project - Product Landing Page
+
+[Product Landing Page project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) details and user story.
+
+[Freecodecamp Product Landing Page](https://codepen.io/freeCodeCamp/full/RKRbwL).
+
+[GitHub](survey-form) folder for the project i did.
+
+[My Product Landing Page](https://codepen.io/Thoth80/pen/dyVjXOY) on codepen.
