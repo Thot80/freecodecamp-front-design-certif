@@ -6,13 +6,18 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Lato', sans-serif;}
+    font-family: 'Lato', sans-serif;
+    background-color: #EEEEEE;
+}
 #header{
     width: 100%;
     height: 75px;
+    background-color: #EEEEEE;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    z-index: 10;
 }
 #banner{
     width: 60vw;
@@ -43,6 +48,48 @@ body{
     color: black;
 }
 
+
+#main{
+    padding-top: 8vh;
+}
+
+#starter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#title{
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+#email{
+    padding: 5px 5px;
+}
+#submit{
+    width: 150px;
+    margin: 10px auto 0;
+    padding: 10px 0;
+    text-align: center;
+    border: 0px;
+    background-color: #ffce2c;
+    transition: background-color 0.5s ease-in-out;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 10px;
+}
+#submit:hover{
+    background-color: #FFA600;
+}
 @media(max-width:600px){
     #header{
         height:auto;
@@ -62,5 +109,11 @@ body{
     }
     .nav-link{
         padding: 10px;
+    }
+    #main{
+        padding-top: 17vh;
+    }
+    #title{
+        font-size: 18px;
     }
 }
