@@ -36,6 +36,6 @@ Each project is validated by units tests checking accessibility, HTML structure,
 
 [Freecodecamp Product Landing Page](https://codepen.io/freeCodeCamp/full/RKRbwL).
 
-[GitHub](survey-form) folder for the project i did.
+[GitHub](product-landing-page) folder for the project i did.
 
 [My Product Landing Page](https://codepen.io/Thoth80/pen/dyVjXOY) on codepen.
