@@ -39,3 +39,13 @@ Each project is validated by units tests checking accessibility, HTML structure,
 [GitHub](product-landing-page) folder for the project i did.
 
 [My Product Landing Page](https://codepen.io/Thoth80/pen/dyVjXOY) on codepen.
+
+## 4<sup>th</sup> Project - JS Documentation Page
+
+[JS Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) details and user story.
+
+[Freecodecamp Product Landing Page](https://codepen.io/freeCodeCamp/full/NdrKKL).
+
+[GitHub](js-tech-page) folder for the project i did.
+
+[My Product Landing Page](https://codepen.io/Thoth80/pen/XWeBqwR) on codepen.
