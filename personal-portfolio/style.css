@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,100&family=Poppins:ital,wght@0,400;0,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,100&family=Poppins:ital,wght@0,200;0,400;0,600;1,200;1,700&family=Raleway:wght@400;700&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -7,6 +7,7 @@
 }
 #about{
     font-size: 20px;
+    font-family: 'Poppins', sans-serif;
 }
 #navbar{
     width: 100%;
@@ -15,7 +16,6 @@
     position: fixed;
     display: flex;
     z-index: 10;
-    font-family: 'Poppins', sans-serif;
 }
 #nav-group{
     width: 100%;
@@ -43,11 +43,40 @@
     color: #F0F0F0;
 }
 
+#welcome-section{
+    height: 100vh;
+    background-color: #2C2D2F;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#title{
+    font-size: 3.5rem;
+    color: #F0F0F0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+.section-subtitle{
+    text-align: center;
+    margin: 1rem 0 0 0;
+    font-size: 1.8rem;
+    font-weight: 200;
+    font-style: italic;
+    color: #BE3144;
+}
+
 @media(max-width:480px){
     #about{
         font-size: 18px;
     }
     #nav-group{
         justify-content: center;
+    }
+    #title{
+        font-size: 3rem;
+    }
+    .section-subtitle{
+        font-size: 1.5rem;
     }
 }
