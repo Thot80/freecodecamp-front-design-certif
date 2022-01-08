@@ -42,3 +42,12 @@
     text-decoration: none;
     color: #F0F0F0;
 }
+
+@media(max-width:480px){
+    #about{
+        font-size: 18px;
+    }
+    #nav-group{
+        justify-content: center;
+    }
+}
