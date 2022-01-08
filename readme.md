@@ -49,3 +49,13 @@ Each project is validated by units tests checking accessibility, HTML structure,
 [GitHub](js-tech-page) folder for the project i did.
 
 [My Product Landing Page](https://codepen.io/Thoth80/pen/XWeBqwR) on codepen.
+
+## 5<sup>th</sup> Project - Fake Portfolio
+
+[Fake Portfolio](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) details and user story.
+
+[Freecodecamp Fake Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG).
+
+[GitHub](personal-portfolio) folder for the project i did.
+
+[My Fake Portfolio](https://codepen.io/Thoth80/pen/mdBGrZz) on codepen.
